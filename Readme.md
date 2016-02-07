@@ -1,2 +1,2 @@
 # AudioDecoder
-[![GitHub version](https://badge.fury.io/gh/TraGicCode.svg)](http://badge.fury.io/gh/TraGicCode)
+https://img.shields.io/badge/Version-1.0.0-brightgreen.svg
